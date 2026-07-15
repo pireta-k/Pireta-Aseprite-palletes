@@ -1,0 +1,65 @@
+GIMP Palette
+#
+ 74  10  16	dark_red
+138  21  32	deep_red
+196  32  48	strong_red
+232  48  64	bright_red
+240  96  96	light_red
+245 160 160	pale_red
+250 208 208	very_pale_red
+ 74  26  10	dark_orange
+138  53  21	deep_orange
+196  85  32	strong_orange
+232 122  48	bright_orange
+240 165  96	light_orange
+245 205 160	pale_orange
+250 229 208	very_pale_orange
+ 74  58  10	dark_yellow
+138 106  21	deep_yellow
+196 154  32	strong_yellow
+232 197  48	bright_yellow
+240 219  96	light_yellow
+245 234 160	pale_yellow
+250 245 208	very_pale_yellow
+ 10  58  42	dark_green
+ 21 106  69	deep_green
+ 32 154  96	strong_green
+ 48 196 122	bright_green
+ 96 220 160	light_green
+160 232 197	pale_green
+208 245 224	very_pale_green
+ 10  42  58	dark_teal
+ 21  80 106	deep_teal
+ 32 122 154	strong_teal
+ 48 165 196	bright_teal
+ 96 197 220	light_teal
+160 220 232	pale_teal
+208 240 245	very_pale_teal
+ 10  21  74	dark_blue
+ 21  42 138	deep_blue
+ 32  69 196	strong_blue
+ 48 101 232	bright_blue
+ 96 144 240	light_blue
+160 186 245	pale_blue
+208 224 250	very_pale_blue
+ 26  10  74	dark_purple
+ 53  21 138	deep_purple
+ 85  32 196	strong_purple
+122  48 232	bright_purple
+165  96 240	light_purple
+205 160 245	pale_purple
+229 208 250	very_pale_purple
+ 58  10  42	dark_pink
+106  21  80	deep_pink
+154  32 117	strong_pink
+196  48 154	bright_pink
+220  96 181	light_pink
+232 160 208	pale_pink
+245 208 229	very_pale_pink
+ 18  18  22	dark_gray
+ 40  40  48	deep_gray
+ 69  69  80	strong_gray
+104 104 117	mid_gray
+144 144 154	light_gray
+184 184 192	pale_gray
+224 224 229	very_pale_gray

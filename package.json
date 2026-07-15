@@ -10,7 +10,8 @@
   ],
   "contributes": {
     "palettes": [
-      { "id": "Pireta Universal",   "path": "./universal.gpl" }
+      { "id": "Pireta Universal",   "path": "./universal.gpl" },
+      { "id": "Pireta Transitional",   "path": "./transitional.gpl" }
     ]
   }
 }

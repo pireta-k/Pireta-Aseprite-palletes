@@ -1,0 +1,16 @@
+{
+  "name": "pireta-palettes",
+  "displayName": "Pireta Palettes",
+  "description": "Palettes created by Pireta",
+  "version": "1.0",
+  "author": { "name": "Pireta" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "Pireta Universal",   "path": "./universal.gpl" }
+    ]
+  }
+}
